@@ -67,14 +67,14 @@ note that here most of what we care about is data.
 
 There are two main forms of encryption:
 - Symetric
- - Data -> algorithm using a particular key -> Encrypted Data
- - you use the same key to decrypt
- - Used for large scale data
- - Challenge is how do we exchange the key?
+- - Data -> algorithm using a particular key -> Encrypted Data
+- - you use the same key to decrypt
+- - Used for large scale data
+- - Challenge is how do we exchange the key?
 - Asymetric
- - Data -> public key -> Encrypted -> private key -> Decrypted
- - If encrypted with public key it can only be decrypted with the private key
- - for small data you can verify integrity for
+- - Data -> public key -> Encrypted -> private key -> Decrypted
+- - If encrypted with public key it can only be decrypted with the private key
+- - for small data you can verify integrity for
 
 How can we verify integrity?
 
