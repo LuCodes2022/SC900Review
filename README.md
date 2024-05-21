@@ -6,5 +6,5 @@ The goal of this repository is to share my journey studying for the SC 900 certi
 
 ## What am I currently studying?
 - Basic Infrastructure to describe etc for the exam
-- Basic security principles
+- [Basic Security Principles](/BASICSEC.md)
 
