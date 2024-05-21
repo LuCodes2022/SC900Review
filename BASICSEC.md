@@ -40,14 +40,14 @@ Assume you have been compromised. Therefor verify everything and implement authe
 
 Manage privileges by:
 - Using just in time
- - Only get privilege, during a limited window, to access data when needed. 
- - Once you are done with th task or your window has passed you will no longer have access.
+- - Only get privilege, during a limited window, to access data when needed. 
+- - Once you are done with th task or your window has passed you will no longer have access.
 - Using Just enough
- - give just enough access to do the task. 
+- - give just enough access to do the task. 
 - Assume Breach
- - Segment network (anywhere you can)
- - Encrypt
- - Detect Threats (Solutions looking at logs and using machine learning to warn you against potential threats in your systems)
+- - Segment network (anywhere you can)
+- - Encrypt
+- - Detect Threats (Solutions looking at logs and using machine learning to warn you against potential threats in your systems)
 
 ## What can we focus on to accomplish what we need to?
 
@@ -57,8 +57,8 @@ Manage privileges by:
 - Device Monitoring
 - Understand the Applications being used
 - Data Classification
- - Encrypt
- - Data Loss Protection 
+- - Encrypt
+- - Data Loss Protection 
 - Infrastructure
 
 note that here most of what we care about is data.
